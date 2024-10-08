@@ -1,0 +1,17 @@
+commit 455ec41801ffae6c3509fe7c8e37ef4cd2547a8f
+Author: klau0023 <karla.edin@gmail.com>
+Date:   Mon Oct 7 20:51:36 2024 -0500
+
+    added gitignore
+
+commit 5e59e37caf399f952ca884530525711b2274debc
+Author: klau0023 <karla.edin@gmail.com>
+Date:   Mon Oct 7 19:37:18 2024 -0500
+
+    added two files
+
+commit f3489ee154a3d61cf3ba10f4c840eded4dd5d989
+Author: klau0023 <karla.edin@gmail.com>
+Date:   Mon Oct 7 19:28:22 2024 -0500
+
+    added readme.txt

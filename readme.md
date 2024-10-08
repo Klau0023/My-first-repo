@@ -1,25 +1,10 @@
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+## README.md
+#Karla Edin
+###Geography
+I live in Minnesota.
 
-- This is
-- an unordered
-- list
+###Reading
+I'm currently reading *Tom Lake* by Ann Pachett.
 
-1. This is
-2. an ordered
-3. list
-
-Here is `some code` in the middle of a sentence.
-
-```
-This is
-a block
-of code
-```
-
-Here is how you make [a link](https://www.wikipedia.org/).
-
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
-
+###Food
+I had pizza for dinner.

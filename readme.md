@@ -1,10 +1,10 @@
 ## README.md
-#Karla Edin
-###Geography
+# Karla Edin
+### Geography
 I live in Minnesota.
 
-###Reading
+### Reading
 I'm currently reading *Tom Lake* by Ann Pachett.
 
-###Food
+### Food
 I had pizza for dinner.
